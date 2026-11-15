@@ -107,5 +107,9 @@ La base de données utilisée est MongoDB. Elle contient trois collections princ
 - Projects
 - Tasks
 
+
 ## 8. Auteur
-Projet réalisé individuellement dans le cadre du module DevOps / DS1.
+
+- **Nom et prénom :** Eya Nasri
+- **Projet :** API REST de Gestion de Projets et de Tâches
+- **Module :** DS1 - Mini Projet avec Express JS
